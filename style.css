@@ -190,20 +190,34 @@ a{
     width: 40%;
 }
 
-.main-2-1-debug{
+/* .main-2-1-debug{
     background-color: #1e90ff;
     border: 3px dashed;
     height: 500px;
 }
+ */
 
 .main-2-2{
     width: 30%;
+    color: #23272a;
 }
 
-.main-2-2-debug{
+/* .main-2-2-debug{
     background-color: #ffc0cb;
     border: 3px dashed;
     height: 500px;
+}
+ */
+#invito{
+    font-size: 50px;
+    margin-top: 8rem;
+    margin-left: 5rem;
+}
+
+#invito-text{
+    font-size: 24px;
+    margin-top: 2rem;
+    margin-left: 5rem;
 }
 
 /* Main - Sezione 3 */
@@ -213,6 +227,7 @@ a{
     align-items: center;
     justify-content: center;
     margin: auto;
+    margin-top: 5rem;
 }
 
 .main-3-debug{
