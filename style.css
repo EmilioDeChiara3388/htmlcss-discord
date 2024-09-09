@@ -319,21 +319,54 @@ a{
     margin: auto;
     align-items: center;
     justify-content: center;
+    background-color: #f6f6f6;
 }
 
-.main-5-debug{
+/* .main-5-debug{
     background-color: #d3d3d3;
     height: 1000px;
-}
+} */
 
 .main-5-1{
-    width: 60%;
+    width: 80%;
+    text-align: center;
 }
 
-.main-5-1-debug{
+/* .main-5-1-debug{
     background-color: #228b22;
     border: 3px dashed;
     height: 900px;
+} */
+
+#technology{
+    font-size: 50px;
+    margin-top: 8rem;
+    color: #23272a;
+}
+
+#technology-text{
+    font-size: 24px;
+    margin-top: 2rem;
+    color: #23272a;
+}
+
+#ready{
+    font-size: 30px;
+    color: #23272a;
+    background-image: url(./img/stars.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#download{
+    background-color: #8ea1e1;
+    color: white;
+    padding: 1rem;
+    border-radius: 30px;
+    border: none;
+    font-size: 24px;
+    margin-top: 2rem;
+    margin-bottom: 10rem;
 }
 
 /* Footer */
