@@ -352,10 +352,13 @@ a{
 
 #ready{
     font-size: 30px;
+    line-height: 110px;
+    margin: 2rem;
     color: #23272a;
-    background-image: url(./img/stars.svg);
-    background-size: cover;
+    background-image: url(./img/stars.svg);  
     background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 50%;
 }
 
 #download{
