@@ -212,12 +212,14 @@ a{
     font-size: 50px;
     margin-top: 8rem;
     margin-left: 5rem;
+    color: #23272a;
 }
 
 .section-text{
     font-size: 24px;
     margin-top: 2rem;
     margin-left: 5rem;
+    color: #23272a;
 }
 
 /* Main - Sezione 3 */
@@ -278,32 +280,37 @@ a{
     align-items: center;
     justify-content: center;
     margin: auto;
+    padding-bottom: 10rem;
 }
 
-.main-4-debug{
+/* .main-4-debug{
     background-color: white;
     height: 600px;
-}
+} */
 
 .main-4-1{
     width: 40%;
 }
 
-.main-4-1-debug{
+/* .main-4-1-debug{
     background-color: #1e90ff;
     border: 3px dashed;
     height: 500px;
-}
+} */
 
 .main-4-2{
     width: 30%;
 }
 
-.main-4-2-debug{
+#fandome{
+    margin-top: 1rem;
+}
+
+/* .main-4-2-debug{
     background-color: #ffc0cb;
     border: 3px dashed;
     height: 500px;
-}
+} */
 
 /* Main - Sezione 5 */
 
