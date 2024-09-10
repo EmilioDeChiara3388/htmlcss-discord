@@ -106,7 +106,6 @@ a{
 .main-1{
     display: flex;
     margin: auto;
-    /* align-items: center; */
     padding-top: 5rem;
     justify-content: center;
     text-align: center;
@@ -115,15 +114,20 @@ a{
     background-size: cover;
 }
 
-.main-1-debug{
+debug .main-1{
     background-color: #00008b;
     height: 500px;
 }
 
 .main-1-1{
     width: 60%;
-    /* padding-top: 5rem; */
-    
+    padding-bottom: 8rem;
+}
+
+#debug .main-1-1{
+    background-color: #ee82ee;
+    border: 3px dashed;
+    height: 400px;
 }
 
 #title{
@@ -134,18 +138,6 @@ a{
     font-size: 24px;
     padding-top: 3rem;
 }
-
-/* .main-1-1-debug{
-    background-color: #ee82ee;
-    border: 3px dashed;
-    height: 400px;
-} */
-
-/* .button{
-    display: flex;
-    margin-top: 6.5rem;
-    align-self: center;
-} */
 
 #button-1{
     margin-right: 2rem;
